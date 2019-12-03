@@ -1,0 +1,5 @@
+References:
+
+https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f
+
+https://scikit-learn.org/stable/modules/linear_model.html
