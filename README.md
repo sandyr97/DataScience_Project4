@@ -11,7 +11,7 @@ a.	Create avg home scores for each team <br />
 b.	Create avg away scores for each team <br />
 4.	Linear Regression
 5.	Gradient Boosting
-6.	Conclusions 
+6.	Conclusions: <br /> 
 I used linear regression and gradient boosting to predict the average score for a home game
 and away game for each team. I found each team's average home and away scores and plotted them.
 I then used regression and gradient boosting to create the line of best fit for this plot. Both
