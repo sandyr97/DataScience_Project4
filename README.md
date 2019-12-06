@@ -1,14 +1,14 @@
 # DataScience_Project4
 Major Leagues: use regression models to determine the scores for each team
 Steps:
-1.	Load data into dataframe
-a.	MLB
-b.	MLB latest
-2.	Clean data
-a.	Check for NAN values
-3.	Feature Engineering
-a.	Create avg home scores for each team
-b.	Create avg away scores for each team
+1.	Load data into dataframe <br />
+a.	MLB <br />
+b.	MLB latest <br />
+2.	Clean data <br />
+a.	Check for NAN values <br />
+3.	Feature Engineering <br />
+a.	Create avg home scores for each team <br />
+b.	Create avg away scores for each team <br />
 4.	Linear Regression
 5.	Gradient Boosting
 6.	Conclusions 
